@@ -30,3 +30,11 @@ This project presents the design and implementation of an AI accelerator optimiz
 - Software drivers for matrix and convolution operations
 - Software implementation for interrupt handling
 - Testing and validation scripts
+
+![image](https://github.com/aryanpandeyece22/Hardware-Accelerator-in-veriilog-using-systolic-arrays/assets/167033652/55677568-ed14-4ce0-a556-daac96560125)
+
+
+
+
+![Screenshot 2024-04-09 062917](https://github.com/aryanpandeyece22/Hardware-Accelerator-in-veriilog-using-systolic-arrays/assets/167033652/bb56e450-b477-4a1e-9c56-0d316f102afb)
+
